@@ -1,3 +1,3 @@
 # JANKEN
- Androidじゃんけんアプリ
-Android勉強
+- Androidじゃんけんアプリ
+- Android勉強用
